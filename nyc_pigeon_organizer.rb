@@ -11,6 +11,5 @@ def nyc_pigeon_organizer(data)
     final_array[name][key].push(inner_key.to_s)
   end
   end
-end
- # write your code here!
+en
 end
